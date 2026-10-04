@@ -1,0 +1,10 @@
+{
+  "name": "wechat-news-ai-bot-node",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "engines": { "node": ">=18" },
+  "scripts": { "start": "node server.js" },
+  "description": "WeChat news AI bot — Node server port of the Cloudflare Worker version. Zero dependencies.",
+  "dependencies": {}
+}
